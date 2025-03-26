@@ -1,0 +1,2 @@
+# gh-academy
+GrowthHungry Academy
