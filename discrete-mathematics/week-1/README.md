@@ -124,70 +124,73 @@
 ### 1.24 Problem:
 ![task24d](./img/tasks/1.24d.png)
 ![task24](./img/tasks/1.24.png)
-#### Solution: To solve this task we need to know
+#### Solution: Absolute maxima is f(2)=f(-2) = 16, absolute minima f(3) = -10.
 
 ### 1.25 Problem:
 ![task25d](./img/tasks/1.25d.png)
 ![task25](./img/tasks/1.25.png)
-#### Solution: To solve this task we need to know
+#### Solution: Local maxima is f(1)= 2, local minima f(-1) = -2.
 
 ### 1.26 Problem:
 ![task26](./img/tasks/1.26.png)
-#### Solution: To solve this task we need to know
+#### Solution: To solve this task we need to know the condition when lines either are parallel or perpendicular. The slopes of *parallel lines* are equal, m1=m2. Two lines are *perpendicular* when m1*m2 = -1. So f(x) and j(x) are *parallel lines*, h(x) and g(x) are *perpendicular lines* .
 
-### 1.27
+### 1.27 Problem:
 ![task27](./img/tasks/1.27.png)
-#### Solution: To solve this task we need to know
+#### Solution: 
+![answer27](./img/answers/1.27.jpeg)
 
-### 1.28
+### 1.28 Problem:
 ![task28](./img/tasks/1.28.png)
-#### Solution: To solve this task we need to know
+#### Solution: 
+![answer28](./img/answers/1.28.jpeg)
 
-### 1.29
+### 1.29 Problem:
 ![task29d](./img/tasks/1.29d.png)
 ![task29](./img/tasks/1.29.png)
-#### Solution: To solve this task we need to know
 
-### 1.30
-![task30](./img/tasks/1.30.png)
-#### Solution: To solve this task we need to know
+![task29](./img/tasks/1.30.png)
+#### Solution: 
+![answer29](./img/answers/1.29.jpeg)
 
-### 1.31
+### 1.30 Problem:
 ![task31](./img/tasks/1.31.png)
-#### Solution: To solve this task we need to know
-
-### 1.32
 ![task32](./img/tasks/1.32.png)
-#### Solution: To solve this task we need to know
+#### Solution: 
+![answer30](./img/answers/1.30.jpeg)
 
-### 1.33
+### 1.31 Problem:
 ![task33](./img/tasks/1.33.png)
-#### Solution: To solve this task we need to know
-
-### 1.34
 ![task34](./img/tasks/1.34.png)
-#### Solution: To solve this task we need to know
+#### Solution: 
+![answer31](./img/answers/1.31.jpeg)
 
-### 1.35
+### 1.32 Problem:
 ![task35](./img/tasks/1.35.png)
-#### Solution: To solve this task we need to know
+#### Solution: 
+![answer32](./img/answers/1.32.jpeg)
 
-### 1.36
+### 1.33 Problem:
 ![task36](./img/tasks/1.36.png)
-#### Solution: To solve this task we need to know
+#### Solution: 
+![answer33](./img/answers/1.33.jpeg)
 
-### 1.37
+### 1.34 Problem:
 ![task37](./img/tasks/1.37.png)
-#### Solution: To solve this task we need to know
+#### Solution: 
+![answer34](./img/answers/1.34.jpeg)
 
-### 1.38
+### 1.35 Problem:
 ![task38](./img/tasks/1.38.png)
-#### Solution: To solve this task we need to know
+#### Solution: 
+![answer35](./img/answers/1.35.jpeg)
 
-### 1.39
+### 1.36 Problem:
 ![task39](./img/tasks/1.39.png)
-#### Solution: To solve this task we need to know
+#### Solution: 
+![answer36](./img/answers/1.36.jpeg)
 
-### 1.40
+### 1.37 Problem:
 ![task40](./img/tasks/1.40.png)
-#### Solution: To solve this task we need to know
+#### Solution: 
+![answer37](./img/answers/1.37.jpeg)
