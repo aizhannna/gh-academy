@@ -61,7 +61,8 @@
 
 ### 3.13 Problem:
 ![task13](./tasks/3.13.png)
-#### Solution:  This polynomial is 5th degree with 4 terms.
+#### Solution: 
+![answer13](./answers/3.13.jpeg)
 
 ### 3.14 Problem:
 ![task14](./tasks/3.14.png)
