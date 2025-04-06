@@ -11,8 +11,8 @@ Status colors list:
 
 - 🟢 [Week 1](discrete-mathematics/week-1)
 - 🟢 [Week 2](discrete-mathematics/week-2)
-- 🟡 [Week 3](discrete-mathematics/week-3)
-- 🔴 Week 4
+- 🟢 [Week 3](discrete-mathematics/week-3)
+- 🟡 [Week 4](discrete-mathematics/week-4)
 - 🔴 Week 5
 
 ## Data Structures & Algorithms Homeworks Status:
