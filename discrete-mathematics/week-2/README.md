@@ -95,5 +95,4 @@
 
 ### 2.20 Problem:
 ![task20](./tasks/2.20.png)
-#### Solution: 
-![answer20](./answers/2.20.jpeg)
+#### Solution: There is no rational zeros
